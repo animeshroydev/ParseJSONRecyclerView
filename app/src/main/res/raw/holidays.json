@@ -1,0 +1,67 @@
+[{
+  "name": "New Year Day",
+  "date": "1st Jan Wednesday"
+}, {
+  "name": "Guru Govind Singh Jayanti",
+  "date": "2nd Jan Thursday"
+}, {
+  "name": "Lohri",
+  "date": "14 Jan Tuesday"
+}, {
+  "name": "Makar Sankranti",
+  "date": "15 Jan Wednesday"
+}, {
+  "name": "Chinese New Year",
+  "date": "25 Jan Saturday"
+}, {
+  "name": "Republic Day",
+  "date": "26 Jan Sunday"
+}, {
+  "name": "Shivaji Jayanti",
+  "date": "19 Feb Wednesday"
+}, {
+  "name": "Maha Shivaratri/Shivaratri",
+  "date": "21 Feb Friday"
+}, {
+  "name": "Holi",
+  "date": "10 Mar Tuesday"
+}, {
+  "name": "March Equinox",
+  "date": "20 Mar Friday"
+}, {
+  "name": "Rama Navami",
+  "date": "2 Apr Thursday"
+}, {
+  "name": "Mahavir Jayanti",
+  "date": "6 Apr Monday"
+}, {
+  "name": "Good Friday",
+  "date": "10 Apr Friday"
+}, {
+  "name": "Easter Day",
+  "date": "12 Apr Sunday"
+}, {
+  "name": "Vaisakhi",
+  "date": "13 Apr Monday"
+}, {
+  "name": "Buddha Purnima/Vesak",
+  "date": "7 May Thursday"
+}, {
+  "name": "Father's Day",
+  "date": "21 Jun Sunday"
+}, {
+  "name": "Independence Day",
+  "date": "15 Aug Saturday"
+}, {
+  "name": "Parsi New Year",
+  "date": "16 Aug Sunday"
+}, {
+  "name": "Halloween",
+  "date": "31 Oct Saturday"
+}, {
+  "name": "Diwali/Deepavali",
+  "date": "14 Nov Saturday"
+}, {
+  "name": "Hanukkah",
+  "date": "11 Dec Friday"
+}]
